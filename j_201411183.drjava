@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20160913-225446">
+  <project autorefresh="false" build="classes/" main="classes.com.sd.turtle.WeightTurtleMain.class" root="" work="">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="src/headfirst/observer/weather/WeatherData.java" package="headfirst.observer.weather" timestamp="03-Apr-2017 14:33:35">
+        <select from="258" to="258"/>
+        <scroll column="70" row="0"/>
+      </file>
+      <file name="src/com/sd/sort/v1/Weight.java" package="com.sd.sort.v1" timestamp="27-Mar-2017 14:23:26">
+        <select from="258" to="258"/>
+        <scroll column="70" row="0"/>
+      </file>
+      <file name="src/headfirst/strategy/Duck.java" package="headfirst.strategy" timestamp="20-Mar-2017 14:47:51">
+        <select from="258" to="258"/>
+        <scroll column="70" row="0"/>
+      </file>
+      <file name="src/com/sd/turtle/WeightTurtle.java" package="com.sd.turtle" timestamp="13-Mar-2017 13:51:36">
+        <select from="258" to="258"/>
+        <scroll column="70" row="0"/>
+      </file>
+      <file name="src/com/sd/turtle/WeightTurtleMain.java" package="com.sd.turtle" timestamp="13-Mar-2017 14:27:43">
+        <select from="258" to="258"/>
+        <scroll column="70" row="0"/>
+      </file>
+      <file name="src/headfirst/strategy/FlyBehavior.java" package="headfirst.strategy" timestamp="27-Mar-2017 12:59:00">
+        <select from="258" to="258"/>
+        <scroll column="70" row="0"/>
+      </file>
+      <file name="src/headfirst/strategy/FlyNoWay.java" package="headfirst.strategy" timestamp="27-Mar-2017 12:59:16">
+        <select from="258" to="258"/>
+        <scroll column="70" row="0"/>
+      </file>
+      <file name="src/headfirst/strategy/FlyRocketPowered.java" package="headfirst.strategy" timestamp="27-Mar-2017 12:59:28">
+        <select from="258" to="258"/>
+        <scroll column="70" row="0"/>
+      </file>
+      <file name="src/headfirst/strategy/FlyWithWings.java" package="headfirst.strategy" timestamp="27-Mar-2017 12:59:43">
+        <select from="258" to="258"/>
+        <scroll column="70" row="0"/>
+      </file>
+      <file name="src/headfirst/strategy/MallardDuck.java" package="headfirst.strategy" timestamp="27-Mar-2017 12:59:57">
+        <select from="258" to="258"/>
+        <scroll column="70" row="0"/>
+      </file>
+      <file name="src/headfirst/strategy/MiniDuckSimulator1.java" package="headfirst.strategy" timestamp="27-Mar-2017 13:00:13">
+        <select from="258" to="258"/>
+        <scroll column="70" row="0"/>
+      </file>
+      <file name="src/headfirst/strategy/ModelDuck.java" package="headfirst.strategy" timestamp="27-Mar-2017 13:00:32">
+        <select from="258" to="258"/>
+        <scroll column="70" row="0"/>
+      </file>
+      <file name="src/headfirst/strategy/Quack.java" package="headfirst.strategy" timestamp="27-Mar-2017 13:00:42">
+        <select from="258" to="258"/>
+        <scroll column="70" row="0"/>
+      </file>
+      <file name="src/headfirst/strategy/QuackBehavior.java" package="headfirst.strategy" timestamp="27-Mar-2017 13:00:53">
+        <select from="258" to="258"/>
+        <scroll column="70" row="0"/>
+      </file>
+      <file name="src/com/sd/gui/CalcAreaGUIMain.java" package="com.sd.gui" timestamp="03-Apr-2017 13:02:49">
+        <select from="258" to="258"/>
+        <scroll column="70" row="0"/>
+      </file>
+      <file name="src/com/sd/gui/CalcAreaListener.java" package="com.sd.gui" timestamp="03-Apr-2017 13:03:00">
+        <select from="258" to="258"/>
+        <scroll column="70" row="0"/>
+      </file>
+      <file name="src/headfirst/observer/weather/Subject.java" package="headfirst.observer.weather" timestamp="03-Apr-2017 13:38:58">
+        <select from="258" to="258"/>
+        <scroll column="70" row="0"/>
+      </file>
+      <file name="src/headfirst/observer/weather/Observer.java" package="headfirst.observer.weather" timestamp="03-Apr-2017 13:40:29">
+        <select from="258" to="258"/>
+        <scroll column="70" row="0"/>
+      </file>
+      <file name="src/headfirst/observer/weather/CurrentConditionsDisplay.java" package="headfirst.observer.weather" timestamp="03-Apr-2017 14:14:15">
+        <select from="258" to="258"/>
+        <scroll column="70" row="0"/>
+      </file>
+      <file name="src/headfirst/observer/weather/DisplayElement.java" package="headfirst.observer.weather" timestamp="03-Apr-2017 14:16:22">
+        <select from="258" to="258"/>
+        <scroll column="70" row="0"/>
+      </file>
+      <file name="src/headfirst/observer/weather/WeatherStation.java" package="headfirst.observer.weather" timestamp="03-Apr-2017 14:21:07">
+        <select from="258" to="258"/>
+        <scroll column="70" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath>
+      <file absolute="false" name="lib/aplu5.jar"/>
+    </classpath>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
